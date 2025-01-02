@@ -1,5 +1,5 @@
 package Company_1_Microsoft;
-
+// https://leetcode.com/problems/image-smoother/description/
 public class Image_Smoother {
     public static void main(String[] args) {
         int[][] ans = imageSmoother(new int[][]{{1,1,1},{1,0,1},{1,1,1}});
