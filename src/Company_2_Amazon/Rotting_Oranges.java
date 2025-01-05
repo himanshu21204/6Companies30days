@@ -1,4 +1,4 @@
-package Company_1_Microsoft;
+package Company_2_Amazon;
 import java.util.*;
 
 // https://leetcode.com/problems/rotting-oranges/description/

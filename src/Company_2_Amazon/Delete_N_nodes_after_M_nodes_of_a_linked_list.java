@@ -1,4 +1,4 @@
-package Company_1_Microsoft;
+package Company_2_Amazon;
 // https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1
 public class Delete_N_nodes_after_M_nodes_of_a_linked_list {
     class Node

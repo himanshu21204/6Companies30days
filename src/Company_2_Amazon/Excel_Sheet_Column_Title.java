@@ -1,4 +1,4 @@
-package Company_1_Microsoft;
+package Company_2_Amazon;
 // https://leetcode.com/problems/excel-sheet-column-title/description/
 public class Excel_Sheet_Column_Title {
     public static void main(String[] args) {
