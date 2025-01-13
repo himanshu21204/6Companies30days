@@ -1,4 +1,4 @@
-package Compnay_3_Walmart;
+package Company_3_Walmart;
 import java.util.*;
 // https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/
 public class Find_Subsequence_Of_Length_K_With_The_Largest_Sum {

@@ -1,4 +1,4 @@
-package Compnay_5_Atlassian;
+package Company_5_Atlassian;
 
 import java.util.Arrays;
 
